@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap&effect=neon");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap");
 
 * {
   padding: 0;
@@ -12,16 +12,16 @@ body {
 }
 
 h1 {
-  color: #000;
+  color: #fff;
   text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 5rem;
   text-transform: uppercase;
-  text-shadow: 0 0 10px #666;
+  text-shadow: 1px 1px 5px rgb(225, 0, 255), 2px 2px 50px rgb(237, 142, 250);
 }
 
 main {
-  margin: 5.1rem 2rem;
-  /* margin-bottom: 12.1rem; */
+  margin: 5rem 2rem;
+  margin-bottom: 10rem;
 }
 
 main .container {
